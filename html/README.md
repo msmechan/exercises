@@ -9,7 +9,9 @@ The objective of this task is to get familiar with HTML by building a small, thr
 
 ## Instructions
 
-Clone this directory by clicking the 'Clone in Desktop' button.
+Clone the `exercises` repository by clicking the 'Download ZIP' button.
+
+You will be working in the `html` directory.
 
 Included in this repo are the following files:
 
