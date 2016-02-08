@@ -1,0 +1,48 @@
+/* style.css */
+
+/* !!! DO NOT MODIFY THIS FILE !!! */
+
+body {
+  color: #222;
+  font-size: 16px;
+}
+
+header,
+nav,
+main,
+section,
+article,
+aside,
+footer {
+  padding: 0 1em;
+  margin: 1em;
+}
+
+header,
+nav,
+main,
+footer {
+  border: 1px solid #ccc;
+  background: #eee;
+}
+
+header > nav {
+  border: 1px solid #bbb;
+  background: #ddd;
+  margin: 1em;
+}
+
+section {
+  border: 1px solid #bbb;
+  background: #ddd;
+}
+
+article {
+  border: 1px solid #aaa;
+  background: #ccc;
+}
+
+aside {
+  border: 1px solid #999;
+  background: #bbb;
+}
