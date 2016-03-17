@@ -1,0 +1,24 @@
+body {
+  font-size: 16px;
+  color: #222;
+}
+
+a,
+a:visited {
+  color: rgb(11,46,102); /* do not remove or modify */
+  text-decoration: none; /* do not remove or modify */
+}
+
+
+/* nav bar styles */
+
+nav ul {
+  list-style: none; /* do not remove or modify */
+  padding-left: 0; /* do not remove or modify */
+}
+
+nav li {
+  display: inline-block; /* do not remove or modify */
+}
+
+/* section styles */
